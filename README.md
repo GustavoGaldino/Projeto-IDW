@@ -1,6 +1,9 @@
 # Dashboard
 Conteúdo do dashboard disponível [neste link](https://app.powerbi.com/groups/me/reports/f1fa81a5-1538-4d33-b875-b8f2d4c4e68f/ReportSection?experience=power-bi)
 
+![Dashboard-demo](https://github.com/GustavoGaldino/Projeto-IDW/assets/49650963/15ac52d9-8cc9-4bc5-b2e3-c8f0e6051d47)
+
+
 # Arquivos
 
 ## Projeto.pbix
